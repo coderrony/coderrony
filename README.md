@@ -1,5 +1,5 @@
 
- <img src="https://i.postimg.cc/LsrfT3BL/Blue-and-White-Modern-Business-Facebook-Cover-1.png" alt="Nature" width="800" height="500">
+ <img src="https://i.postimg.cc/LsrfT3BL/Blue-and-White-Modern-Business-Facebook-Cover-1.png" alt="Nature" width="800" height="450">
 <h1 align="left">Hi 👋, I'm Rony Das</h1>
 <h3 align="left">A passionate Web application developer from Bangladesh</h3>
 
