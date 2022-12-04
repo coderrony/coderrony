@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrony&show_icons=true&locale=en&layout=compact" alt="coderrony" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderrony&show_icons=true&locale=en" alt="coderrony" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=coderrony&show_icons=true&locale=en" alt="coderrony" /></p>
 
 
 
