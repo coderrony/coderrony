@@ -1,13 +1,16 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- 🔭 I’m currently working on [ghfdh](dghdg)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 👯 I’m looking to collaborate on [dghgd](dghdgs)
 
-- 🔭 I’m currently working on this page. 
+- 🤝 I’m looking for help with [dgh](gdhdgs)
 
+- 💬 Ask me about **ghdh**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
