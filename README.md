@@ -1,6 +1,7 @@
 
 
-<h3 align="left">Hi There, I Am Rony Das I Love to Explore Technology and Skrill. I Always Try to Update With Technology . Recently I Work on an AI Project and I Enjoy It a Lot, the AI Is Really Amazing.</h3>
+<h1 align="center">Hi 👋, I'm Rony Das</h1>
+<h3 align="center">hi there, I am rony das I love to explore technology and skrill. I always try to update with technology . recently I work on an AI project and I enjoy it a lot, the AI is really amazing.</h3>
 - 🔭 I’m currently Learning on **Machine Learning**
 
 - 🌱 I’m currently learning **Python Libraries that are used in Machine Learning**
