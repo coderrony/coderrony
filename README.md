@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, There</h1>
-<h3 align="center">Hi There, I am Rony Das I Love to Explore Technology and Skrill. I Always Try to Update With Technology. Recently I Work on an AI Project and I Enjoy It a Lot</h3>
+<h1 align="left">Hi 👋, There</h1>
+<h3 align="left"> I am Rony Das I Love to Explore Technology and Skrill. I Always Try to Update With Technology. Recently I Work on an AI Project and I Enjoy It a Lot</h3>
 - 🔭 I’m currently Learning on **Machine Learning**
 
 - 🌱 I’m currently learning **Python Libraries that are used in Machine Learning**
