@@ -1,6 +1,6 @@
 
 
-<p> hi there, I am rony das I love to explore technology. technology like AI is growing daily and reducing human effort.AI can transform a wide range of industries, including healthcare, finance, transportation, and manufacturing. It can automate tasks, improve efficiency, and make better decisions. However, it also raises ethical concerns, such as the potential impact on employment and the need to ensure that AI systems do not discriminate against certain groups of people.<\p>
+<h3 align="left">Hi There, I Am Rony Das I Love to Explore Technology and Skrill. I Always Try to Update With Technology . Recently I Work on an AI Project and I Enjoy It a Lot, the AI Is Really Amazing.</h3>
 - 🔭 I’m currently Learning on **Machine Learning**
 
 - 🌱 I’m currently learning **Python Libraries that are used in Machine Learning**
