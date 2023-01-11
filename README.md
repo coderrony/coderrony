@@ -1,7 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrony&label=Profile%20views&color=0e75b6&style=flat" alt="coderrony" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrony&label=Profile%20views&color=0e75b6&style=flat" alt="coderrony" /> </p>
+<p> hi there, I am rony das I love to explore technology. technology like AI is growing daily and reducing human effort.AI can transform a wide range of industries, including healthcare, finance, transportation, and manufacturing. It can automate tasks, improve efficiency, and make better decisions. However, it also raises ethical concerns, such as the potential impact on employment and the need to ensure that AI systems do not discriminate against certain groups of people.<\p>
 - 🔭 I’m currently Learning on **Machine Learning**
 
 - 🌱 I’m currently learning **Python Libraries that are used in Machine Learning**
