@@ -1,9 +1,7 @@
 
- <img src="https://i.postimg.cc/LsrfT3BL/Blue-and-White-Modern-Business-Facebook-Cover-1.png" alt="Nature" width="800" height="450">
-<h1 align="left">Hi 👋, I'm Rony Das</h1>
-<h3 align="left">A passionate Web application developer from Bangladesh</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrony&label=Profile%20views&color=0e75b6&style=flat" alt="coderrony" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrony&label=Profile%20views&color=0e75b6&style=flat" alt="coderrony" /> </p>
 - 🔭 I’m currently Learning on **Machine Learning**
 
 - 🌱 I’m currently learning **Python Libraries that are used in Machine Learning**
