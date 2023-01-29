@@ -1,5 +1,5 @@
 
-
+<img src="https://www.linkedin.com/in/coderrony/overlay/background-image/" width="400"/>
 <h1 align="left">Hi 👋, There</h1>
 <h3 align="left"> I am Rony Das I Love to Explore Technology and Skrill. I Always Try to Update With Technology. Recently I Work on an AI Project and I Enjoy It a Lot</h3>
 - 🔭 I’m currently Learning on **Machine Learning**
