@@ -1,7 +1,7 @@
 
 <img src="https://i.postimg.cc/T3BfVx2H/sav.jpg" width="1200" height="300">
 <h1 align="center">Hi 👋, There I am Rony Das</h1>
-<h3 align="center"> Python Developer & Problem Solver </h3>
+<h3 align="center"> Javascript Developer || Python Developer || Problem Solver </h3>
 <p>I am a passionate Python developer. I have been engaged with development since 2018, and I continue
 to solve problems in different online judges where I have solved around 350+ problems. I have the
 confidence to solve any particular problem, and I am quickly accustomed to any technology.</p>
