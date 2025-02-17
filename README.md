@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/KzntHBMx/personal-facebook-banner.png" width="1080" height="1080">
+<img src="https://i.postimg.cc/KzntHBMx/personal-facebook-banner.png" width="1080" height="500">
 
 <h1 align="center">Hi 👋, There I am Rony Das</h1>
 <h3 align="center"> WEB DEVELOPER </h3>
