@@ -1,6 +1,6 @@
 
-<img src="https://i.postimg.cc/mDrdxdTB/personal-facebook-banner.png" width="1200" height="300">
-[![personal-facebook-banner.png](https://i.postimg.cc/KzntHBMx/personal-facebook-banner.png)](https://postimg.cc/2bSqqqGK)
+<img src="https://i.postimg.cc/KzntHBMx/personal-facebook-banner.png" width="1200" height="300">
+
 <h1 align="center">Hi 👋, There I am Rony Das</h1>
 <h3 align="center"> WEB DEVELOPER </h3>
 <p> I am  Specialist In React & Nextjs. I have been engaged with development since 2018, and I continue
