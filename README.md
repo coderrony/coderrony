@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, There I am Rony Das</h1>
 <h3 align="center">FULL-STACK WEB DEVELOPER </h3>
-<p> I am a Full-Stack Web Developer specializing in TypeScript and real-time applications. I’ve been engaged in development since 2019 and have actively solved problems on various online judges, with around 350+ problems solved to date. My current focus is on system design and scalable architectures. </p>
+<p> specializing in TypeScript and real-time applications. I’ve been engaged in development since 2019 and have actively solved problems on various online judges, with around 350+ problems solved to date. My current focus is on system design and scalable architectures. </p>
 
 ## Visit My Portfolio
 
