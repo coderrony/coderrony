@@ -1,11 +1,9 @@
 
-<img src="https://i.postimg.cc/KzntHBMx/personal-facebook-banner.png" width="1080" height="500">
+<img src="https://i.postimg.cc/FKxTV0dn/nextjs-opengraph-image-1.png" width="1080" height="500">
 
 <h1 align="center">Hi 👋, There I am Rony Das</h1>
-<h3 align="center"> WEB DEVELOPER </h3>
-<p> I am  Specialist In React & Nextjs. I have been engaged with development since 2018, and I continue
-to solve problems in different online judges where I have solved around 350+ problems. I have the
-confidence to solve any particular problem, and I am quickly accustomed to any technology.</p>
+<h3 align="center">FULL-STACK WEB DEVELOPER </h3>
+<p> I am a Full-Stack Web Developer specializing in TypeScript and real-time applications. I’ve been engaged in development since 2019 and have actively solved problems on various online judges, with around 350+ problems solved to date. My current focus is on system design and scalable architectures. </p>
 
 ## Visit My Portfolio
 
