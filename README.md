@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/FKxTV0dn/nextjs-opengraph-image-1.png" width="1080" height="500">
+[![personal-social-banner.png](https://i.postimg.cc/bJVKzGRf/personal-social-banner.png)](https://postimg.cc/gXRMs25g)
 
 <h1 align="center">Hi 👋, There I am Rony Das</h1>
 <h3 align="center">FULL-STACK WEB DEVELOPER </h3>
